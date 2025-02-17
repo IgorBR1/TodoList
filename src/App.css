@@ -1,0 +1,30 @@
+
+
+
+.todo{
+    box-shadow: 0 0 10px black;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.todo-form{
+    box-shadow: 0 0 10px black;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+input,select{
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    width: 100%;
+}
